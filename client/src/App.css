@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css?family=Karla:400,700&display=swap");
+.font-family-karla {
+  font-family: karla;
+}
+.bg-sidebar {
+  background: #323643;
+}
+.cta-btn {
+  color: #323643;
+}
+.upgrade-btn {
+  background: #93deff;
+}
+.upgrade-btn:hover {
+  background: #93deff;
+}
+.active-nav-link {
+  background: #93deff;
+}
+.nav-item:hover {
+  background: #93deff;
+}
+.account-link:hover {
+  background: #323643;
+}
+.bg-birus {
+  background: #323643;
+}
+.biru {
+  color: #ddf1fa;
+}
+.bg-biru {
+  background: #ddf1fa;
+}
+.h-biru:hover {
+  background: #ddf1fa;
+}
+.b-biru {
+  border: #ddf1fa;
+}
+.putih {
+  color: #f7f7f7;
+}
+.bg-putih {
+  background: #f7f7f7;
+}
+.h-putih:hover {
+  background: #f7f7f7;
+}
+.hitam {
+  color: #323643;
+}
+.bg-hitam {
+  background: #323643;
+}
+.abu {
+  color: #606470;
+}
+.bg-abu {
+  background: #606470;
+}
+.kuning {
+  color: #ffa53c;
+}
+.bg-kuning {
+  background: #ffa53c;
+}
+.merah {
+  color: #fb344f;
+}
+.bg-merah {
+  background: #fb344f;
+}
+/* .tab-icon {
+  background-image: url("path/to/your/logo.png");
+} */
